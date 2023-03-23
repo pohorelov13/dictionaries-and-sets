@@ -1,4 +1,4 @@
-package coffee.order;
+package main.coffee.order;
 
 public class Main {
 
@@ -22,5 +22,7 @@ public class Main {
         coffeeOrderBoard.add(new Order("Joey"));
 
         coffeeOrderBoard.draw();
+
+        System.out.println(coffeeOrderBoard.deliver(7000));
     }
 }

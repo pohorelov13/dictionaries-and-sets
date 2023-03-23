@@ -1,4 +1,4 @@
-0. Створив новий пакет coffee.order
+0. Створив новий пакет main.coffee.order
 
 
 

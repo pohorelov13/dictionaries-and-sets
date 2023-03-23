@@ -1,4 +1,4 @@
-package coffee.order;
+package main.coffee.order;
 
 public class Order {
 
